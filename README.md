@@ -2,17 +2,17 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFuejR6aDR2NDN6c2l6ZXUzaTdvMGR4d293cHk1YjdzdTJlZjljYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2zeji2UedvZzvIZ45N/giphy.gif"  />
+
+###
+
 <p align="left">Aspiring Cybersecurity Engineer, AI Automation Developer, and Full-Stack Developer passionate about designing secure, scalable, and intelligent technology solutions. With a growing foundation in cybersecurity, software engineering, automation, and modern web development, I focus on building applications that are both innovative and resilient. My interests include security engineering, AI-powered automation, cloud technologies, and system architecture. I am driven by continuous learning, hands-on experimentation, and the pursuit of creating technology that solves real-world challenges.</p>
 
 ###
 
 <h2 align="left">About me</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFuejR6aDR2NDN6c2l6ZXUzaTdvMGR4d293cHk1YjdzdTJlZjljYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2zeji2UedvZzvIZ45N/giphy.gif"  />
 
 ###
 
@@ -70,6 +70,18 @@
 
 ###
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ###
